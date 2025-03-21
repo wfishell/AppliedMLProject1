@@ -1,0 +1,1 @@
+Testing the effectiveness of a simple RNN and a simple transformer encoder layer in embedding on the Penn Tree Bank
